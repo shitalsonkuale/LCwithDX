@@ -1,0 +1,551 @@
+[
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530692771536,
+            "changeTime": 1530692771536,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530692771536,
+            "changeTime": 1530692771536,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530696429082,
+            "changeTime": 1530696429082,
+            "contentHash": "b4afd72db6e4c5208696ba627b7991e3fd2ac754"
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530693645861,
+            "changeTime": 1530693645861,
+            "contentHash": "9bc881e80345b892e0143da85674db08d0116c64",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530693472468,
+            "changeTime": 1530693472468,
+            "contentHash": "00f9ba9f899b44dda60b00285f637aca8377c60b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.auradoc",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1530693472468,
+            "changeTime": 1530693472468,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.cmp",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.cmp",
+            "isDirectory": false,
+            "size": 849,
+            "modifiedTime": 1530693629767,
+            "changeTime": 1530693629767,
+            "contentHash": "f459c652af2a3b4b125632c5d2cba3a1cfdda555",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1530693472452,
+            "changeTime": 1530693472452,
+            "contentHash": "ad87208ffaea76ec91f317e3d5d806d2d509d13d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.css",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1530693472468,
+            "changeTime": 1530693472468,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.design",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1530693472468,
+            "changeTime": 1530693472468,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.svg",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1530693472468,
+            "changeTime": 1530693472468,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditController.js",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1530693472452,
+            "changeTime": 1530693472452,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditHelper.js",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1530693472452,
+            "changeTime": 1530693472452,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1530693472468,
+            "changeTime": 1530693472468,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530693426981,
+            "changeTime": 1530693426981,
+            "contentHash": "73fe0c92c7485bfd6b41a5c77fcf9ccd139275eb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.auradoc",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1530693426980,
+            "changeTime": 1530693426980,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.cmp",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.cmp",
+            "isDirectory": false,
+            "size": 701,
+            "modifiedTime": 1530693456072,
+            "changeTime": 1530693456072,
+            "contentHash": "b6edae34c6e18b8ba4bb194610f81d1015ba1699",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1530693426947,
+            "changeTime": 1530693426947,
+            "contentHash": "ae2544b4b17da9c03ce791fe2b29a2255e38b512",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.css",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1530693426976,
+            "changeTime": 1530693426976,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.design",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1530693426981,
+            "changeTime": 1530693426981,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.svg",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1530693426979,
+            "changeTime": 1530693426979,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewController.js",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1530693426973,
+            "changeTime": 1530693426973,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewHelper.js",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1530693426975,
+            "changeTime": 1530693426975,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1530693426977,
+            "changeTime": 1530693426977,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530693645868,
+            "changeTime": 1530693645868,
+            "contentHash": "da50f9eb6cbc0f4491efea8bcc991ef6a3801fda",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.auradoc",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1530693645868,
+            "changeTime": 1530693645868,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.cmp",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.cmp",
+            "isDirectory": false,
+            "size": 1055,
+            "modifiedTime": 1530693664363,
+            "changeTime": 1530693664363,
+            "contentHash": "098212e9ea6e413a7a9101746c343532b1f6d8f6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 252,
+            "modifiedTime": 1530693645864,
+            "changeTime": 1530693645864,
+            "contentHash": "54fa2e73c3c25766eff4592a4e1b22f3c43a519d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.css",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1530693645868,
+            "changeTime": 1530693645868,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.design",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1530693645868,
+            "changeTime": 1530693645868,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.svg",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1530693645868,
+            "changeTime": 1530693645868,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditController.js",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditController.js",
+            "isDirectory": false,
+            "size": 132,
+            "modifiedTime": 1530693778489,
+            "changeTime": 1530693778489,
+            "contentHash": "56dcb0350b9d63f24803e671caf850a8c2d250b2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditHelper.js",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1530693645868,
+            "changeTime": 1530693645868,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1530693645868,
+            "changeTime": 1530693645868,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX",
+        {
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530693814876,
+            "changeTime": 1530693814876,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6114,
+            "modifiedTime": 1530696429082,
+            "changeTime": 1530696429082,
+            "contentHash": "0a8d1c46317a18ffd81b0601cef6528088bd9558"
+        }
+    ],
+    [
+        "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\PDC3A-Training.PDC3A\\LCwithDX\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530696429082,
+            "changeTime": 1530696429082,
+            "contentHash": "32f1b6b4eb2c3f479592c779097b710dcc7020dd"
+        }
+    ]
+]
